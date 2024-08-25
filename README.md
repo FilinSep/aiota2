@@ -10,7 +10,7 @@ Asynchronous python interface for \<OPENDOTA/> API
 ## Usage
 ### Use <OPENDOTA/> API in a project BUT WITH ASYNCHRONICITY
 ```python
-from aiota2.client import AioClient
+from aiota2 import AioClient
 import asyncio
 
 async def main():
@@ -36,7 +36,7 @@ await dota.get_teams(**query_params)
 ### Hero attribute
 That give you ability to access the dota heroes base without sending a request to API many times, just use object attribute "heroes"
 ```python
-from aiota2.client import AioClient
+from aiota2 import AioClient
 import asyncio
 
 async def main():
@@ -55,7 +55,7 @@ dota.get_heroes_by_param(param: str, value: Any)
 ### DataModel
 Using DataModel
 ```python
-from aiota2.client import AioClient
+from aiota2 import AioClient
 import asyncio
 
 async def main():
@@ -73,7 +73,7 @@ asyncio.run(main=main())
 #### Deepening
 Creating DataModel
 ```python
-from aiota2.datamodel import DataModel
+from aiota2 import DataModel
 
 colors = {
     "sky": "blue",
