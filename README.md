@@ -7,6 +7,10 @@ Asynchronous python interface for \<OPENDOTA/> API
 * Asynchrony support
 * Allows API keys authentication
 * Abstract Models class
+## How to install
+```
+pip install aiota2
+```
 ## Usage
 ### Use <OPENDOTA/> API in a project BUT WITH ASYNCHRONICITY
 ```python
