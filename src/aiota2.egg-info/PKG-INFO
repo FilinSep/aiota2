@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: aiota2
+Version: 1.0.2
+Summary: Asynchronous python interface for <OPENDOTA/> API
+Author: flsoap
+Project-URL: Homepage, https://github.com/FilinSep/aiota2
+Project-URL: Issues, https://github.com/FilinSep/aiota2/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # AioTA2
 ![enter image description here](https://img.shields.io/pypi/v/aiota2?color=success)![enter image description here](https://img.shields.io/pypi/pyversions/aiota2)![enter image description here](https://img.shields.io/github/followers/FilinSep?style=social)![enter image description here](https://img.shields.io/github/issues/FilinSep/aiota2)
 

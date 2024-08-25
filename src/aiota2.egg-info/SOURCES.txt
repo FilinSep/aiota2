@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/aiota2/__init__.py
+src/aiota2/client.py
+src/aiota2/datamodel.py
+src/aiota2/exceptions.py
+src/aiota2.egg-info/PKG-INFO
+src/aiota2.egg-info/SOURCES.txt
+src/aiota2.egg-info/dependency_links.txt
+src/aiota2.egg-info/top_level.txt

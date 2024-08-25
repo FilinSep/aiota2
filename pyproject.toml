@@ -1,0 +1,18 @@
+[project]
+name = "aiota2"
+version = "1.0.2"
+authors = [
+  { name="flsoap"},
+]
+description = "Asynchronous python interface for <OPENDOTA/> API"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/FilinSep/aiota2"
+Issues = "https://github.com/FilinSep/aiota2/issues"
