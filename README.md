@@ -11,6 +11,7 @@ Asynchronous python interface for \<OPENDOTA/> API
 ```
 pip install aiota2
 ```
+**Chek on [PyPI](https://pypi.org/project/aiota2/)**
 ## Usage
 ### Use <OPENDOTA/> API in a project BUT WITH ASYNCHRONICITY
 ```python
